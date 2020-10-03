@@ -1,8 +1,11 @@
 # Code Refactor
-The initial homework assignment for Coding Bootcamp featuring HTML and CSS website edits.
+The client requested an update to both their website and code to include web accessibility. 
 
 ## Motivation
-This project exists as a homework assignment for Coding Bootcamp. It serves as a teaching exercise on how to include accessibility within image tags and simplifying CSS tags.
+* This project added web accessibility to all images and created an easier document for future front-end developers to read
+* Change the HTML <div> tags to semantic tags
+* To rearrange all elements to follow a more logical structure
+* Update the title element to a more logical string
 
 ## Screenshots and Images
 Check the assets/images folder for a list of linked images.
