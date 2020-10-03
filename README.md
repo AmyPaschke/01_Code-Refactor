@@ -11,9 +11,9 @@ The client requested an update to both their website and code to include web acc
 Check the assets/images folder for a list of linked images.
 
 Small preview of the finished product:
-![Headpage screenshot](Develop/assets/images/screenshot-1 "Header of website")
+![image](https://user-images.githubusercontent.com/70075341/94993019-a0046880-0553-11eb-9636-c420e1afaa6f.png)
 
-![Marketing preview](Develop/assets/images/screenshot-2 "Marketing section of website")
+![image](https://user-images.githubusercontent.com/70075341/94993032-ba3e4680-0553-11eb-9d43-e4ddcb7825be.jpg)
 
 ## Credits
 All credits belong to Trilogy Education Services including the base code for the HTML and CSS.
